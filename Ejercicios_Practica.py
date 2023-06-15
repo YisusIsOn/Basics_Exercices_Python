@@ -1,7 +1,8 @@
-"Ejercicio 18"
+"Ejercicio 19"
 
 """
-Escribir un programa que pida al usuario que introduzca una frase en la consola y muestre por pantalla la frase invertida.
+Escribir un programa que pregunte el correo electrónico del usuario en la consola y muestre por pantalla otro correo electrónico 
+con el mismo nombre (la parte delante de la arroba @) pero con dominio ceu.es.
 """
 "Modo Basico"
 
