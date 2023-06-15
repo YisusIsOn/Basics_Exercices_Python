@@ -1,14 +1,7 @@
-"Ejercicio 17"
+"Ejercicio 18"
 
 """
-Escribir un programa que pida al usuario que introduzca una frase en la consola y muestre por pantalla la frase invertida.
+Escribir un programa que pregunte por consola el precio de un producto en euros con dos decimales 
+y muestre por pantalla el número de euros y el número de céntimos del precio introducido.
 """
 "Modo Basico"
-
-print("\n")
-print("".center(50,"-"))
-frase =input("Ingrese una frase: ")
-frase_Invertida = frase[::-1]
-print("La frase invertida es: " + frase_Invertida)
-print("".center(50,"-"))
-print("\n")
