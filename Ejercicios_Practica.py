@@ -1,8 +1,11 @@
-"Ejercicio 19"
+"Ejercicio 20"
 
 """
-Escribir un programa que pregunte el correo electrónico del usuario en la consola y muestre por pantalla otro correo electrónico 
-con el mismo nombre (la parte delante de la arroba @) pero con dominio ceu.es.
+Escribir un programa que pregunte por consola el precio de un producto en euros con dos decimales 
+y muestre por pantalla el número de euros y el número de céntimos del precio introducido.
 """
 "Modo Basico"
+
+
+
 
