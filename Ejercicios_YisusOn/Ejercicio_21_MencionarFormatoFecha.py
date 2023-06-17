@@ -15,7 +15,6 @@ def ingreso_Datos():
     return date_OfBorn
 
 def div_Format(date_OfBorn):
-    date_OfBornVector =[] 
     day = date_OfBorn.split("/")[0]
     month = date_OfBorn.split("/")[1]
     age = date_OfBorn.split("/")[2]
