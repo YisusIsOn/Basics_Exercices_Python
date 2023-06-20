@@ -1,17 +1,8 @@
-"Ejercicio 25"
+"Ejercicio 26"
 
 """
-Escribir un programa que almacene la cadena de caracteres contraseña en una variable, 
-pregunte al usuario por la contraseña e imprima por pantalla si la contraseña introducida 
-por el usuario coincide con la guardada en la variable sin tener en cuenta mayúsculas y minúsculas.
+Escribir un programa que pida al usuario dos números y muestre por pantalla su división.
+ Si el divisor es cero el programa debe mostrar un error.
 """
 "Basico"
 
-contraseña_Guardada = "hola"
-
-ingreso_Contraseña = input("Ingrese la contraseña: ")
-
-if ingreso_Contraseña == contraseña_Guardada.lower():
-    print("La contraseña es correcta")
-else:
-    print("La contraseña es incorrecta")
