@@ -1,8 +1,17 @@
-"Ejercicio 26"
+"Ejercicio 34"
 
 """
-Escribir un programa que pida al usuario dos números y muestre por pantalla su división.
- Si el divisor es cero el programa debe mostrar un error.
+Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
 """
-"Basico"
+
+
+
+print("\n")
+print("".center(100,"-"))
+
+
+
+
+
+
 
